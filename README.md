@@ -10,6 +10,10 @@ I'm working for [ITOS3D Engineering](http://www.itos3d.com) (Image TO Smart 3D),
 
 Open-source multi-view and multimodal feature matching tool for photogrammetric applications.
 
+## [TidopLib](https://github.com/estebanrdo/tidoplib)
+
+TidopLib is an open-source C++ library developed by Tidop Research Group.
+
 <!--
 **estebanrdo/estebanrdo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
