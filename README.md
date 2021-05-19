@@ -12,7 +12,7 @@ Open-source multi-view and multimodal feature matching tool for photogrammetric 
 
 ## [TidopLib](https://github.com/estebanrdo/tidoplib)
 
-TidopLib is an open-source C++ library developed by Tidop Research Group.
+TidopLib is an open-source C++ library developed by [Tidop Research Group](http://tidop.usal.es/).
 
 <!--
 **estebanrdo/estebanrdo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
